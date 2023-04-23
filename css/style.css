@@ -50,3 +50,7 @@ table {
 
 
 /* Write your css below here */
+
+section h1, p, ul li npm{
+	padding:12px 0;
+}
